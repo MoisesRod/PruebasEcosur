@@ -1,5 +1,5 @@
 <?php
-datos['valor']="tengo 10 años";
+datos['valor']="tengo ";
 echo json_encode(datos);
 
 
