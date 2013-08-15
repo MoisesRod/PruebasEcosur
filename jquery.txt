@@ -1,9 +1,2 @@
-click, bind, live, delegate eventos antiguos de jquery
-atributos html
--bootstrap
--jquery
--php
--java
--phyton
--otros
--ya salio desde consola de git hub
+ESTE ARCHIVO FUE MODIFICADO POR MOISES ALEJANDRO
+y sera visto en el servidor
