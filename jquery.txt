@@ -1,3 +1,6 @@
 click, bind, live, delegate eventos antiguos de jquery
 atributos html
 -bootstrap
+-jquery
+-javascript
+-php
