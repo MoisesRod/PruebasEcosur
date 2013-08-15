@@ -1,2 +1,2 @@
 ESTE ARCHIVO FUE MODIFICADO POR MOISES ALEJANDRO
-y sera visto en el servidor
+y sera visto en el servidor desde consola|
