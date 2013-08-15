@@ -6,3 +6,4 @@ atributos html
 -java
 -phyton
 -otros
+-ya salio desde consola de git hub
